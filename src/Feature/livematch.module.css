@@ -1,0 +1,15 @@
+.match{
+color:#217867;
+text-align:left;
+background-color:white ;
+}
+.container{
+
+    display:flex;
+    background-color:white ;
+    gap:55px;
+    color:black;
+    width:100%;
+    justify-content: space-between;
+    margin: auto;
+}
